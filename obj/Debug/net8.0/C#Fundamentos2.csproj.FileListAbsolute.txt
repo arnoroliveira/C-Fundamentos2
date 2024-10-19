@@ -1,0 +1,17 @@
+C:\C#Fundamentos2\bin\Debug\net8.0\C#Fundamentos2.exe
+C:\C#Fundamentos2\bin\Debug\net8.0\C#Fundamentos2.deps.json
+C:\C#Fundamentos2\bin\Debug\net8.0\C#Fundamentos2.runtimeconfig.json
+C:\C#Fundamentos2\bin\Debug\net8.0\C#Fundamentos2.dll
+C:\C#Fundamentos2\bin\Debug\net8.0\C#Fundamentos2.pdb
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.AssemblyInfoInputs.cache
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.AssemblyInfo.cs
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.csproj.CoreCompileInputs.cache
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.dll
+C:\C#Fundamentos2\obj\Debug\net8.0\refint\C#Fundamentos2.dll
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.pdb
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.genruntimeconfig.cache
+C:\C#Fundamentos2\obj\Debug\net8.0\ref\C#Fundamentos2.dll
+C:\C#Fundamentos2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundamentos2.csproj.AssemblyReference.cache
+C:\C#Fundamentos2\obj\Debug\net8.0\C#Fundam.BB56C70B.Up2Date
